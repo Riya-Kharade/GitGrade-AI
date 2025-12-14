@@ -127,8 +127,13 @@ Roadmap:
 Built with ❤️ for students and developers to grow better GitHub profiles.
 
 ---
-
 ## 👩‍💻 Demo
 
+🎥 **Project Walkthrough (Video Demo):**  
 https://drive.google.com/file/d/1FmzAZPJjMYtxfatq7RNcXd2b9MMtc2Rv/view?usp=drive_link
+
+🌐 **Live Application (Streamlit Cloud):**  
+https://gitgrade-ai.streamlit.app/
+
 ---
+
