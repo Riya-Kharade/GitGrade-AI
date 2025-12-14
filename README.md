@@ -128,4 +128,7 @@ Built with ❤️ for students and developers to grow better GitHub profiles.
 
 ---
 
-⭐ If you like this project, consider giving it a star!
+## 👩‍💻 Demo
+
+https://drive.google.com/file/d/1FmzAZPJjMYtxfatq7RNcXd2b9MMtc2Rv/view?usp=drive_link
+---
